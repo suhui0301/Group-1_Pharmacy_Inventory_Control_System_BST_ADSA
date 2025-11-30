@@ -11,9 +11,9 @@ All systems are built using the **Binary Search Tree (BST)** data structure to e
 
 | Name | Matric ID | Assigned System (BST-Based) |
 | :--- | :--- | :--- |
-| **Lau Su Hui (Abby)** | MEC245045 | Medicine Management System |
-| **Nurul ‘Aini Binti Hamdan** | MEC245046 | Supplier & Vendor Mgmt System |
-| **Winnie Ngu** | MEC245065 | Pharmacy Stock System |
+| **Lau Su Hui (Abby)** | MEC245045 | Medicine Management System (in C++)|
+| **Nurul ‘Aini Binti Hamdan** | MEC245046 | Supplier & Vendor Mgmt System (in Python)|
+| **Winnie Ngu** | MEC245065 | Pharmacy Stock System (in C++)|
 
 ---
 
