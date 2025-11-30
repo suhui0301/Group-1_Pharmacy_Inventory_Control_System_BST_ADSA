@@ -1,4 +1,4 @@
-# 🏥💊 Pharmacy Inventory Control System (Group 1) 🏥💊
+# 💊 Pharmacy Inventory Control System (Group 1)
 
 **Description:**
 A comprehensive pharmacy management solution comprising three independent systems/modules. 
