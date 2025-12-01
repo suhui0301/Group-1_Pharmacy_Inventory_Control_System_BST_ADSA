@@ -56,7 +56,8 @@ This repository contains three distinct independent BST-based applications/syste
 
 
 ## 📋 Project Structure
-pharmacy-inventory-bst-system/
+
+Group-1_Pharmacy_Inventory_Control_System_BST_ADSA
 │
 ├── 📄 README.md                        # Project Documentation
 │
