@@ -55,24 +55,6 @@ This repository contains three distinct independent BST-based applications/syste
 ---
 
 
-## 📋 Project Structure
-
-Group-1_Pharmacy_Inventory_Control_System_BST_ADSA
-│
-├── 📄 README.md                        # Project Documentation
-│
-├── 📂 src/                             # Source Code
-│   ├── 📄 Meds Mgmt System Source Code - Group 1 Abby (Solution 1 BST).cpp
-│   ├── 📄 Pharmacy Stock System Source Code - Group 1 Winnie (Solution 1 BST).cpp
-│   └── 📄 Supplier & Vendor Mgmt System Source Code - Group 1 Aini (Solution 1 BST).py
-│
-└── 📂 slides/                          # Presentation Files
-    ├── 📄 UTM MECS1023 ADSA Assignment Task 2 Slides - Group 1 (20252026-1).pdf
-    └── 📄 cover_image.png
-
----
-
-
 ## 🛠️ Technologies Used
 * **Languages:** C++, Python
 * **Data Structure:** Binary Search Tree (BST)
